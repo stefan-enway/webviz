@@ -39,7 +39,7 @@
     "react-dnd": "2.5.4",
     "react-document-events": "1.4.0",
     "react-dom": "16.8.6",
-    "react-draggable": "3.0.5",
+    "react-draggable": "4.0.3",
     "react-hot-loader": "4.8.2",
     "react-hover-observer": "2.1.1",
     "react-json-tree": "0.11.1",
