@@ -13,7 +13,7 @@
     "classnames": "2.2.6",
     "connected-react-router": "6.5.2",
     "history": "4.9.0",
-    "hoist-non-react-statics": "3.0.1",
+    "hoist-non-react-statics": "3.3.1",
     "idb": "4.0.4",
     "inter-ui": "3.0.0",
     "intervals-fn": "3.0.3",
