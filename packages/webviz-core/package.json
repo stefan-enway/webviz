@@ -6,7 +6,7 @@
   "dependencies": {
     "@cruise-automation/hooks": "0.0.1",
     "@mdi/svg": "3.2.89",
-    "chart.js": "2.7.3",
+    "chart.js": "2.9.4",
     "chartjs-plugin-annotation": "0.5.7",
     "chartjs-plugin-datalabels": "0.4.0",
     "chartjs-plugin-zoom": "0.6.6",
